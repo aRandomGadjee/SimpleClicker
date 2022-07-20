@@ -1,6 +1,6 @@
 # Simple, fast positional clicker
 ***
-##What?
+## What?
 A very simple script to left or right click predefined coordinates
 ---
 ## Why?
