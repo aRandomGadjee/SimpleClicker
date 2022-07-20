@@ -1,12 +1,15 @@
 # Simple, fast positional clicker
 ***
 ## What?
+
 A very simple script to left or right click predefined coordinates
 ---
 ## Why?
+
 Why not?
 ---
 ## How to use this:
+
 ### Compiling:
 As this is C++ we must first compile this to a .exe. This article, [Compiling a Native C++ Program on the Command Line]( https://docs.microsoft.com/en-us/cpp/build/walkthrough-compiling-a-native-cpp-program-on-the-command-line?view=msvc-170 “Walkthrough: Compiling a Native C++ Program on the Command Line”), will show you how to compile C++. You will need to include the library in the compiler command, as the below example shows:
 ```Powershell
