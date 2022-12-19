@@ -7,7 +7,7 @@ A very simple script to left or right click predefined coordinates
 ---
 ## Why?
 
-Why not?
+A friend asked me to write a script to do a simple action (bound to a macro) this on RuneScape 
 
 ---
 ## How to use this:
